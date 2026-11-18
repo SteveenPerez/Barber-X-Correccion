@@ -4,6 +4,11 @@ Sistema web para la gestión de una barbería. Permite administrar clientes,
 barberos, servicios, citas, reportes y contenido de ayuda; los clientes pueden
 registrarse, reservar y gestionar sus citas.
 
+# INTEGRANTES
+-Steveen Perez Polania
+-Maicol Stiben Correa Tovar
+-jefferson Andres Valderrama Murcia
+
 ## Tecnologías y requisitos
 
 - **Interfaz:** HTML5, CSS y JavaScript nativo, sin framework ni gestor de
