@@ -5,7 +5,7 @@ barberos, servicios, citas, reportes y contenido de ayuda; los clientes pueden
 registrarse, reservar y gestionar sus citas.
 
 # INTEGRANTES
-Steveen Perez Polania
+- Steveen Perez Polania
 - Maicol Stiben Correa Tovar
 - jefferson Andres Valderrama Murcia
 
